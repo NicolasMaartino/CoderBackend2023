@@ -11,6 +11,7 @@ const productManager = require(path.dirname(__dirname) + "/productManager");
 const productRouter = Router();
 
 
+
 productRouter.get('/',async(req,res)=>{
     const {limit} = req.query;
 
