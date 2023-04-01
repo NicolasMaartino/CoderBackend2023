@@ -11,7 +11,7 @@
         "id":1
     },
     {
-        "nombreProducto": "Block",
+        "nombreProducto": "Chocolate",
         "descripcionProducto": "Chocolate con mani en barra",
         "precio": 200,
         "status": true,

@@ -1,0 +1,11 @@
+<ul>
+    {{#each productos}}
+        <li>
+            {{#each this}}
+                {{this}}
+            {{/each}}
+        </li>
+    {{/each}}
+</ul>
+<script src="./socket.io/socket.io.js"></script>
+<script type="module" src="/js/index.js"></script>
