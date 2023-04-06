@@ -33,16 +33,14 @@ app.use(express.json());
 app.use(express.static(__dirname+"/public"));
 app.use('/static', express.static('node_modules'));
 
+app.use('/realTimeProducts',viewsRouter);
+app.use("/api/products",productRouter);
+app.use("/api/carts",cartRouter);
 
 io.on('connection', (socket) =>{
     console.log("Se conecto al socketServer");
-    app.use('/realTimeProducts',viewsRouter);
-    app.use("/api/products",productRouter);
-    app.use("/api/carts",cartRouter);
-    /*socket.on("resolucion", productos =>{
-        console.log(productos)
-        //document.innerHTML += productos
-    })*/
+    
+    
 })
 
 

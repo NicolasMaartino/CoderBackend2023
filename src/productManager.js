@@ -34,6 +34,10 @@ class ProductManager{
         return (JSON.parse(await fs.promises.readFile(this.path,'utf-8')));
     }
 
+    async getProductosSoloLectura(){
+        return (await fs.promises.readFile(this.path,'utf-8'));
+    }
+
     getProducto(id){
         return this.productos.find(producto => producto.id === id);
     }

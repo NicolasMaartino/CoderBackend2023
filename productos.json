@@ -1,68 +1,68 @@
 [
-    {
-        "nombreProducto": "Block",
-        "descripcionProducto": "Chocolate con mani en barra",
-        "precio": 200,
-        "status": true,
-        "categoria": "Consumibles",
-        "rutaDeImagen": "/",
-        "codigoProducto":"SD190",
-        "stock": 30,
-        "id":1
-    },
-    {
-        "nombreProducto": "Chocolate",
-        "descripcionProducto": "Chocolate con mani en barra",
-        "precio": 200,
-        "status": true,
-        "categoria": "Consumibles",
-        "rutaDeImagen": "/",
-        "codigoProducto":"SD190",
-        "stock": 30,
-        "id":2
-    },
-    {
-        "nombreProducto": "Block",
-        "descripcionProducto": "Chocolate con mani en barra",
-        "precio": 200,
-        "status": true,
-        "categoria": "Consumibles",
-        "rutaDeImagen": "/",
-        "codigoProducto":"SD190",
-        "stock": 30,
-        "id":3
-    },
-    {
-        "nombreProducto": "Block",
-        "descripcionProducto": "Chocolate con mani en barra",
-        "precio": 200,
-        "status": true,
-        "categoria": "Consumibles",
-        "rutaDeImagen": "/",
-        "codigoProducto":"SD190",
-        "stock": 30,
-        "id":4
-    },
-    {
-        "nombreProducto": "Block",
-        "descripcionProducto": "Chocolate con mani en barra",
-        "precio": 200,
-        "status": false,
-        "categoria": "Consumibles",
-        "rutaDeImagen": "/",
-        "codigoProducto":"SD190",
-        "stock": 30,
-        "id":5
-    },
-    {
-        "nombreProducto": "Block",
-        "descripcionProducto": "Chocolate con mani en barra",
-        "precio": 200,
-        "status": true,
-        "categoria": "Consumibles",
-        "rutaDeImagen": "/",
-        "codigoProducto":"SD190",
-        "stock": 30,
-        "id":6
-    }
+	{
+		"nombreProducto": "Block",
+		"descripcionProducto": "Chocolate con mani en barra",
+		"precio": 200,
+		"status": true,
+		"categoria": "Consumibles",
+		"rutaDeImagen": "/",
+		"codigoProducto": "SD190",
+		"stock": 30,
+		"id": 1
+	},
+	{
+		"nombreProducto": "Block",
+		"descripcionProducto": "Chocolate con mani en barra",
+		"precio": 200,
+		"status": true,
+		"categoria": "Consumibles",
+		"rutaDeImagen": "/",
+		"codigoProducto": "SD190",
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"nombreProducto": "Block",
+		"descripcionProducto": "Chocolate con mani en barra",
+		"precio": 200,
+		"status": true,
+		"categoria": "Consumibles",
+		"rutaDeImagen": "/",
+		"codigoProducto": "SD190",
+		"stock": 30,
+		"id": 3
+	},
+	{
+		"nombreProducto": "Block",
+		"descripcionProducto": "Chocolate con mani en barra",
+		"precio": 200,
+		"status": true,
+		"categoria": "Consumibles",
+		"rutaDeImagen": "/",
+		"codigoProducto": "SD190",
+		"stock": 30,
+		"id": 4
+	},
+	{
+		"nombreProducto": "Block",
+		"descripcionProducto": "Chocolate con mani en barra",
+		"precio": 200,
+		"status": true,
+		"categoria": "Consumibles",
+		"rutaDeImagen": "/",
+		"codigoProducto": "SD190",
+		"stock": 30,
+		"id": 5
+	},
+	{
+		"nombreProducto": "Block",
+		"descripcionProducto": "Chocolate con mani en barra",
+		"precio": 200,
+		"status": true,
+		"categoria": "Consumibles",
+		"rutaDeImagen": "/",
+		"codigoProducto": "SD190",
+		"stock": 30,
+		"id": 6
+	}
 ]
